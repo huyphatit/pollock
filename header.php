@@ -9,7 +9,7 @@
   <meta charset="<?php bloginfo('charset'); ?>">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>FlexStart Bootstrap Template - Index</title>
+  <title><?php echo get_option( 'blogname' ); ?></title>
   <meta content="" name="description">
 
   <meta content="" name="keywords">
